@@ -1,0 +1,1 @@
+vhdtdtfi -prj Full_Adder_128bit -o D:/Full_Adder_128bit/Full_adder.vhi -module Full_adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work C:/Windows/System32/Full_adder/Full_adder.vhd 

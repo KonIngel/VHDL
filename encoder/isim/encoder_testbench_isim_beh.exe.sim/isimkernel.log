@@ -1,0 +1,28 @@
+Command line:
+   encoder_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58997
+
+Wed Dec 23 18:02:06 2020
+
+
+ Elaboration Time: 0.234375 sec
+
+ Current Memory Usage: 1365.83 Meg
+
+ Total Signals          : 4
+ Total Nets             : 11
+ Total Signal Drivers   : 2
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 371
+
+ Total Simulation Time: 0.3125 sec
+
+ Current Memory Usage: 893.239 Meg
+
+Wed Dec 23 18:03:19 2020
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Windows/System32/encoder/encoder_testbench_isim_beh.exe" -prj "C:/Windows/System32/encoder/encoder_testbench_beh.prj" "work.encoder_testbench" 

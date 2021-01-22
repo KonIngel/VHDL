@@ -1,0 +1,14 @@
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+xst -intstyle ise -ifn "D:/Full_Adder_128bit/Full_Adder_128bit.xst" -ofn "D:/Full_Adder_128bit/Full_Adder_128bit.syr" 
+netgen -intstyle ise -ar Structure -tm Full_Adder_128bit -w -dir netgen/synthesis -ofmt vhdl -sim Full_Adder_128bit.ngc Full_Adder_128bit_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Full_Adder_128bit.ngc Full_Adder_128bit.ngd  

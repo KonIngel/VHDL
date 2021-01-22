@@ -1,0 +1,4 @@
+vhdtdtfi -prj Full_adder_4bits -o C:/Windows/System32/Full_adder_4bits/Full_adder.vhi -module Full_adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../Full_adder/Full_adder.vhd 
+vhdtdtfi -prj Full_adder_4bits -o C:/Windows/System32/Full_adder_4bits/Full_adder.vhi -module Full_adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../Full_adder/Full_adder.vhd 
+vhdtdtfi -lib work ../Full_adder/Full_adder.vhd -prj Full_adder_4bits -o Full_adder.spl -module Full_adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Full_adder.spl C:/WINDOWS/system32/Full_adder_4bits/Full_adder.sym 

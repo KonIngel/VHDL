@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Windows/System32/Full_adder_4bits/Full_adder_testbench_isim_beh.exe" -prj "C:/Windows/System32/Full_adder_4bits/Full_adder_testbench_beh.prj" "work.Full_adder_testbench" 
